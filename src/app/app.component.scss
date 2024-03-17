@@ -1,0 +1,23 @@
+.grid-wrapper{
+    height: 100vh;
+    position: relative;
+    background-color: #ccc;
+}
+
+.toolbar-container{
+    height: 80px;
+    padding: 10px;
+}
+
+.sidenav-container{
+    height: 100vh;
+    background-color: #e0e0e0;
+    width: 200px;
+    position: absolute;
+    top: 80px;
+    left: 0;
+}
+
+.page-wrapper{
+    padding-left: 220px;
+}
